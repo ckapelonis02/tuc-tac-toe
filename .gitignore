@@ -1,0 +1,45 @@
+# Bytecode files
+*.class
+
+# Logs
+*.log
+
+# IDE files
+*.iml
+.idea/
+*.ipr
+*.iws
+*.idea/
+
+# Build directories
+target/
+bin/
+out/
+
+# Maven files
+.mvn/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# Gradle files
+.gradle/
+build/
+
+# Eclipse files
+.project
+.classpath
+.csettings
+.settings/
+
+# Intellij
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS generated files
+.DS_Store
+Thumbs.db
